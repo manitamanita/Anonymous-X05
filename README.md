@@ -1,1 +1,1 @@
-python.pu
+python.py
